@@ -73,3 +73,16 @@ h2 {
 .countdown #second::before {
   content: "Seconds";
 }
+
+.fireworks {
+  text-decoration: none;
+  color: white;
+  padding: 0.8rem;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.fireworks:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  transform: scale(1.1);
+}

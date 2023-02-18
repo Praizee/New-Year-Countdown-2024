@@ -4,4 +4,4 @@ alert("sololearn returned bugs when i tried running the code here on mobile i al
 
 /*alert("Updated\n The Source Code is now available on sololearn. kindly upvote this if you like it and dont forget to check my github for some awesome mini projects https://github.com/syipmong")*/
 
-alert("happy Diwali❤️")
+alert("Happy New Year!❤️")
