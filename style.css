@@ -8,6 +8,7 @@ body {
   font-family: cursive;
   background-color: rgb(57, 44, 145);
   overflow: hidden;
+  transition-duration: 0.5s;
 }
 
 h2 {
@@ -85,4 +86,5 @@ h2 {
 .fireworks:hover {
   background-color: rgba(0, 0, 0, 0.1);
   transform: scale(1.1);
+  transition-duration: 0.5s;
 }
